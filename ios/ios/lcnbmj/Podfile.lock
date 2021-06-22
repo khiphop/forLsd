@@ -1,0 +1,20 @@
+PODS:
+  - UMCommon (7.3.0):
+    - UMDevice
+  - UMDevice (2.0.1)
+
+DEPENDENCIES:
+  - UMCommon
+
+SPEC REPOS:
+  trunk:
+    - UMCommon
+    - UMDevice
+
+SPEC CHECKSUMS:
+  UMCommon: d654d43e83dcccb3dbb95d97f7b88045733a1380
+  UMDevice: f9ed639486a73620bc7c800d1657f110df50c3e1
+
+PODFILE CHECKSUM: b8e819a84abf82e52529e0d812c340aaa8b01c12
+
+COCOAPODS: 1.10.1
